@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Ném Vòng - Hóa Học 12 (Bài 15)",
+  "description": "Trò chơi tương tác lớp học Ném Vòng 3D ôn tập Bài 15: Thế điện cực và Nguồn điện hóa học (Hóa học 12).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
